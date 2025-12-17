@@ -2,3 +2,4 @@ Hello this is swathi. this is devops class
 This is git class
 This is file 1
 This is monday 
+This is  wednesday.
